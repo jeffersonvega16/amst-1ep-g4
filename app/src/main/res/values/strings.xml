@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AMST_1EP_Grupo4</string>
+    <string name="aplicaciones_moviles_y_sistemas_telem_ticos">APLICACIONES MOVILES Y SISTEMAS TELEMÁTICOS</string>
+    <string name="examen_pr_ctico">Examen Práctico</string>
+    <string name="jeffersonvega_y_debbiedonoso">JeffersonVega y DebbieDonoso</string>
+    <string name="busqueda_por_nombre">Busqueda por nombre</string>
+    <string name="buscar_h_roes">Buscar héroes</string>
+</resources>
